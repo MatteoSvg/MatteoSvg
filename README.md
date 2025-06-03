@@ -3,8 +3,6 @@
 <h2>👋 Matteo Solavagione</h2>
 <p><em>Trainee software developer at <a href="https://www.realegroup.eu/IT/">Reale Group</a></em></p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/matteo__solavagione)
-
 <p align="center">
    <picture>
   <source
