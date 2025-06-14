@@ -1,7 +1,7 @@
 
 
 <h2>👋 Matteo Solavagione</h2>
-<p><em>Trainee software developer at <a href="https://www.realegroup.eu/IT/">Reale Group</a></em></p>
+<p><em>I'm a junior full stack developer with 1 year of experience in building web applications<em></p>
 
 <p align="center">
    <picture>
